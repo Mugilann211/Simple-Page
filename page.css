@@ -1,0 +1,59 @@
+
+p{
+    font-family: arial;
+}
+
+.ht{
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+    width: 450px;
+    line-height: 30px;
+    margin-bottom: 10px;
+}
+
+.se{
+
+    font-size: 16px;
+    color: rgba(60, 56, 56, 0.911);
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+.mu{
+   
+    font-size: 16px;
+    color: rgba(60, 60, 60, 0.911);
+    margin-top: 0px;
+}
+
+.tec{
+   
+    font-size: 18px;
+    width: 380px;
+    margin-top: 25px;
+    margin-bottom: 0px;
+    line-height: 26px;
+
+}
+
+.sho{
+font-family: arial;
+font-size: 17px;
+margin-top: 70px;
+background-color: red;
+padding-bottom: 17px;
+padding-top: 17px;
+text-align: center;
+color: white;
+
+
+}
+
+.shop:hover{
+text-decoration: underline;
+cursor: pointer;
+font-weight: bold;
+margin-left: 3px;
+
+}
